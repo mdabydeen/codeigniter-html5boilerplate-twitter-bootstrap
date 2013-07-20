@@ -26,7 +26,7 @@
 <link href="http://fonts.googleapis.com/css?family=<?php echo $f?>"
 	rel="stylesheet" type="text/css">
 <?php endforeach;?>
-<script src="<?php echo base_url(JS."libs/modernizr-2.6.1-respond-1.1.0.min.js");?>"></script>
+<script src="<?php echo base_url(JS."libs/modernizr.custom.51740.js");?>"></script>
 
 <!-- Le fav and touch icons -->
 <link rel="shortcut icon" href="<?php echo base_url(IMAGES.'ico/favicon.ico');?>">
@@ -39,9 +39,10 @@
 <body>
 	<?php echo $body ?>
 	<script
-		src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="<?php echo base_url(JS."libs/jquery-1.9.1.min.js");?>"><\/script>')</script>
-	<script src="<?php echo base_url(JS."libs/underscore-min-1.4.4.js");?>"></script>
+		src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="<?php echo base_url(JS."libs/jquery-1.10.2.min.js");?>"><\/script>')</script>
+	<script src="<?php echo base_url(JS."libs/jquery-migrate-1.2.1.min.js)" ?>"></script>
+	<script src="<?php echo base_url(JS."libs/underscore-1.5.1.min.js");?>"></script>
 	<script src="<?php echo base_url(JS."plugins.js");?>"></script>
 	<script src="<?php echo base_url(JS."script.js");?>"></script>
 
