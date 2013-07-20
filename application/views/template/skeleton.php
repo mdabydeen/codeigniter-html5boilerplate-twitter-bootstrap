@@ -41,7 +41,7 @@
 	<script
 		src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="<?php echo base_url(JS."libs/jquery-1.10.2.min.js");?>"><\/script>')</script>
-	<script src="<?php echo base_url(JS."libs/jquery-migrate-1.2.1.min.js)" ?>"></script>
+	<script src="<?php echo base_url(JS."libs/jquery-migrate-1.2.1.min.js");?>"></script>
 	<script src="<?php echo base_url(JS."libs/underscore-1.5.1.min.js");?>"></script>
 	<script src="<?php echo base_url(JS."plugins.js");?>"></script>
 	<script src="<?php echo base_url(JS."script.js");?>"></script>

@@ -41,4 +41,3 @@ Author
 +	[http://alessandro.arnodo.net](http://alessandro.arnodo.net)
 
 +	<mailto:alessandro@arnodo.net>
-3

@@ -37,5 +37,18 @@ define('FOPEN_WRITE_CREATE_STRICT',				'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
 
+/*
+ |--------------------------------------------------------------------------
+| Custom
+|--------------------------------------------------------------------------
+|
+*/
+
+define('IMAGES','resources/img/');
+define('JS','resources/js/');
+define('CSS','resources/css/');
+define('UPLOAD','resources/upload/');
+
+
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
